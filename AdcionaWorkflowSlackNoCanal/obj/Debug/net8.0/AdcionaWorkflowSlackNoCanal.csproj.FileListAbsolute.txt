@@ -1,0 +1,14 @@
+C:\Users\JoãoSouza\OneDrive - ZIELO TECNOLOGIA LTDA\Área de Trabalho\n8n\AdcionaWorkflowSlackNoCanal\bin\Debug\net8.0\AdcionaWorkflowSlackNoCanal.exe
+C:\Users\JoãoSouza\OneDrive - ZIELO TECNOLOGIA LTDA\Área de Trabalho\n8n\AdcionaWorkflowSlackNoCanal\bin\Debug\net8.0\AdcionaWorkflowSlackNoCanal.deps.json
+C:\Users\JoãoSouza\OneDrive - ZIELO TECNOLOGIA LTDA\Área de Trabalho\n8n\AdcionaWorkflowSlackNoCanal\bin\Debug\net8.0\AdcionaWorkflowSlackNoCanal.runtimeconfig.json
+C:\Users\JoãoSouza\OneDrive - ZIELO TECNOLOGIA LTDA\Área de Trabalho\n8n\AdcionaWorkflowSlackNoCanal\bin\Debug\net8.0\AdcionaWorkflowSlackNoCanal.dll
+C:\Users\JoãoSouza\OneDrive - ZIELO TECNOLOGIA LTDA\Área de Trabalho\n8n\AdcionaWorkflowSlackNoCanal\bin\Debug\net8.0\AdcionaWorkflowSlackNoCanal.pdb
+C:\Users\JoãoSouza\OneDrive - ZIELO TECNOLOGIA LTDA\Área de Trabalho\n8n\AdcionaWorkflowSlackNoCanal\obj\Debug\net8.0\AdcionaWorkflowSlackNoCanal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoãoSouza\OneDrive - ZIELO TECNOLOGIA LTDA\Área de Trabalho\n8n\AdcionaWorkflowSlackNoCanal\obj\Debug\net8.0\AdcionaWorkflowSlackNoCanal.AssemblyInfoInputs.cache
+C:\Users\JoãoSouza\OneDrive - ZIELO TECNOLOGIA LTDA\Área de Trabalho\n8n\AdcionaWorkflowSlackNoCanal\obj\Debug\net8.0\AdcionaWorkflowSlackNoCanal.AssemblyInfo.cs
+C:\Users\JoãoSouza\OneDrive - ZIELO TECNOLOGIA LTDA\Área de Trabalho\n8n\AdcionaWorkflowSlackNoCanal\obj\Debug\net8.0\AdcionaWorkflowSlackNoCanal.csproj.CoreCompileInputs.cache
+C:\Users\JoãoSouza\OneDrive - ZIELO TECNOLOGIA LTDA\Área de Trabalho\n8n\AdcionaWorkflowSlackNoCanal\obj\Debug\net8.0\AdcionaWorkflowSlackNoCanal.dll
+C:\Users\JoãoSouza\OneDrive - ZIELO TECNOLOGIA LTDA\Área de Trabalho\n8n\AdcionaWorkflowSlackNoCanal\obj\Debug\net8.0\refint\AdcionaWorkflowSlackNoCanal.dll
+C:\Users\JoãoSouza\OneDrive - ZIELO TECNOLOGIA LTDA\Área de Trabalho\n8n\AdcionaWorkflowSlackNoCanal\obj\Debug\net8.0\AdcionaWorkflowSlackNoCanal.pdb
+C:\Users\JoãoSouza\OneDrive - ZIELO TECNOLOGIA LTDA\Área de Trabalho\n8n\AdcionaWorkflowSlackNoCanal\obj\Debug\net8.0\AdcionaWorkflowSlackNoCanal.genruntimeconfig.cache
+C:\Users\JoãoSouza\OneDrive - ZIELO TECNOLOGIA LTDA\Área de Trabalho\n8n\AdcionaWorkflowSlackNoCanal\obj\Debug\net8.0\ref\AdcionaWorkflowSlackNoCanal.dll
